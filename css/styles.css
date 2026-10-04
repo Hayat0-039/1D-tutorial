@@ -21,7 +21,9 @@ body {
     background:url(../images/bg-home-office-studio.jpg) no-repeat;
     background-size: cover;
 }
-
+.home .content-wrapper {
+    background: rgb(225 225 225 / 0.9);
+}
 /* RESUME
 ------------------------------------*/
 
